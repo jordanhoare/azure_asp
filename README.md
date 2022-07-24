@@ -10,7 +10,7 @@ Live Demo:  ________
 
 </br>
 
-![Alt text](project/static/img/screenshot.png)
+![Alt text](wiki/img/pipeline.png)
 
 </br>
 
@@ -128,8 +128,6 @@ Live Demo:  ________
 </br>
 
 </details>
-
-</br>
 
 </br>
 
