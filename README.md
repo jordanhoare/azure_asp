@@ -10,10 +10,6 @@ Live Demo:  ________
 
 </br>
 
-![Alt text](wiki/img/pipeline.png)
-
-</br>
-
 ## Dev Objectives
 - [ ] Develop an async private API with Python
 - [ ] Create a login portal with Vue.js (then provide a superuser for others to test the app with) 
@@ -24,6 +20,12 @@ Live Demo:  ________
 - [ ] Containerize frontend, backend and db inside a Docker container
 - [ ] Deploy dockerized application to an Azure app service using a pipeline through container registry
 - [ ] Configure GitHub Actions for continuous integration and deployment
+
+![pipeline](wiki/img/pipeline.png)
+
+![dashboard](wiki/img/dashboard.png.png)
+
+![login](wiki/img/login.png.png)
 
 </br>
 
