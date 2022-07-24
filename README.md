@@ -21,11 +21,24 @@ Live Demo:  ________
 - [ ] Deploy dockerized application to an Azure app service using a pipeline through container registry
 - [ ] Configure GitHub Actions for continuous integration and deployment
 
+</br>
+
+### Workflow Diagram
+A container image will build and push to Azure Container Registry, then the image is pulled into an Azure ASP for deployment.
+
+</br>
+
 ![pipeline](wiki/img/pipeline.png)
 
-![dashboard](wiki/img/dashboard.png.png)
+</br>
 
-![login](wiki/img/login.png.png)
+### Dashboard Login
+![dashboard](wiki/img/dashboard.png)
+
+</br>
+
+### Dashboard User Creation
+![login](wiki/img/login.png)
 
 </br>
 
